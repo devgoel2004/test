@@ -1,3 +1,0 @@
-Name: Dev Goel
-Skills: HTML, CSS, JavaScript, ReactJS, Node JS, MongoDB, MySQL, BootStrap, Next JS
-Email: devgoel901@gmail.com
